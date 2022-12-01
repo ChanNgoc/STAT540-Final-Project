@@ -1,0 +1,4 @@
+"id","stop_date","county_name","county_fips","police_department","driver_gender","driver_birthdate","driver_race","officer_id","driver_age","violation"
+"MS-2015-40681",2015-09-04,"Jackson",28059,"Mississippi Highway Patrol","male",1930-01-11,"White","K029",86,"Seat belt"
+"MS-2016-03952",2016-01-21,"Lee",28081,"Mississippi Highway Patrol","male",1930-03-19,"White","U044",86,"Speeding"
+"MS-2016-23340",2016-06-04,"Scott",28123,"Mississippi Highway Patrol","male",1930-03-15,"Black","H004",86,"Seat belt"
